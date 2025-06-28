@@ -1,5 +1,6 @@
 vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%5B%20%E2%9A%AA%EF%B8%8F%20WiFi%20%5D%20%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?encryption=none&security=none&sni=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2F#%5B%20%E2%9A%AA%EF%B8%8F%20WiFi%20%5D%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.102.171:80?encryption=none&security=none&sni=aymng.bahareh.dpdns.org&allowInsecure=1&type=ws&host=aymng.bahareh.dpdns.org&path=%2F#%5B%20%E2%9A%AA%EF%B8%8F%20WiFi%20%5D%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.67.138.118:443?encryption=none&security=tls&sni=faruzan.changli.ddns-ip.net&alpn=http%2F1.1&fp=randomized&type=ws&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir#%5B%20%F0%9F%9F%A1%20MTN%20%5D%20%F0%9F%87%AC%F0%9F%87%A7%20UK
 vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.245.124:443?encryption=none&security=tls&sni=lv.2138937.xyz&type=ws&host=lv.2138937.xyz&path=%2F%3Fed%3D2560#%5B%20%F0%9F%9F%A1%20MTN%20%5D%20%F0%9F%87%BA%F0%9F%87%B8%20USA
